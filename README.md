@@ -1,10 +1,8 @@
 import java.util.Scanner;
 
 class Armstrong{
-
     public static void main(String[] args) {
-
-        int a, digit, cube = 0,num;
+    int a, digit, cube = 0,num;
         
         System.out.println("Enter the number:");
         Scanner sc = new Scanner(System. in );
